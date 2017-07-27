@@ -6,4 +6,3 @@ WebSite
 ### Support or Contact
 
 jorge.ernesto.mauricio@gmail.com
-jorge.mauricio@me.com
